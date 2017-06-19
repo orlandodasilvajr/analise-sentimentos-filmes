@@ -1,2 +1,3 @@
-# analise-sentimentos-filmes
-Análise de sentimentos sobre comentários de filmes
+# Análise de Sentimentos - R
+
+Análise de sentimentos sobre comentários de filmes.
